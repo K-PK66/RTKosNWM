@@ -1,2 +1,2 @@
-*.wikitext linguist-language=wikitext-lang
-*.pdf linguist-language=wikitext-lang
+*.wikitext linguist-language=script
+*.pdf linguist-language=script
