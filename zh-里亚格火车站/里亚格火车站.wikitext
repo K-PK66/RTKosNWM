@@ -1,0 +1,63 @@
+{{Infobox station
+| name                = 里亚格
+| native_name         = رياق
+| native_name_lang    = ab
+| eng_name            = Riyaq
+| symbol_location     = 
+| symbol              = 
+| type                = 
+| image               = Rayak train station 2016 VOA.jpg
+| alt                 = 
+| caption             = 里亚格火车站遗址（摄于2016年）
+| address             =  
+| borough             = 
+| country             = {{LBN}}
+| coordinates         = 
+| owned               = 
+| operator            = 大马士革-哈马奥斯曼铁路公司
+| line                = 
+| distance            = 
+| platforms           = 
+| tracks              = 
+| train_operators     = 
+| connections         = 
+| structure           = 
+| parking             = 
+| bicycle             = 
+| disabled            = 
+| code                = 
+| iata                =
+| zone                = 
+| website             = 
+| opened              =  1895
+| electrified         =
+| closed              = 1975年前后{{notetag|具体关闭时间不详。虽然多数说法都认为里亚格火车站是因为黎巴嫩内战而被毁<ref>{{Cite news|title=The Sad but Beautiful Abandoned Train Stations of Lebanon|url=https://www.thedailybeast.com/lebanons-abandoned-train-stations-inside-these-sad-but-beautiful-gems|newspaper=The Daily Beast|date=2019-06-08|accessdate=2022-11-15|language=en|first=Victoria|last=Yan}}</ref>，但就具体关闭时间是1975年<ref>{{Cite web |title=Tripoli train station – LebanonUntravelled.com |url=https://lebanonuntravelled.com/tripoli-train-station/ |access-date=2022-11-15 |language=en-US }}</ref>还是1976年<ref>{{Cite web |last=Hamade |first=Haya |title=Rayak Train Station |url=https://www.sobeirut.com/rayak-train-station |access-date=2022-11-15 |website=Secrets of Beirut - SOBEIRUT |language=en }}</ref><ref>{{Cite web |title=Riyak Train Station: All Aboard! |url=https://store.alrifai.com/blogs/blog/riyak-train-station-all-aboard |access-date=2022-11-15 |website=store.alrifai.com }}</ref>的问题仍有争议。}}
+| passengers          = 
+| architect     = 
+| architectural_style = {{link-en|法式建筑|French architecture|法式}}
+| other_services      = 
+}}[[File:Bf_Rajak-gigapixel-scale-6_00x.tif|thumb| 里亚格火车站，摄于1920年前后]]
+'''里亚格火车站'''指的是位于[[黎巴嫩]][[里亞格|里亚格]]的一座前客运[[鐵路車站|火车站]]兼铁路维修所。该站是通往[[叙利亚]][[霍姆斯 (敘利亞)|霍姆斯]]和[[大马士革]]地区及[[伊拉克]][[摩苏尔]]的重要交通枢纽，是黎巴嫩铁路系统中战略意义相当重大的车站。该站配有大型维修设施，站内综合设施共有九栋建筑，包括酒店、电信中心和售票处。<ref name="lemensuel">{{Cite web |last=Silve |first=Marguerite |date=2018-11-01 |title=Reconstruire les chemins de fer. Un moyen pour booster l’économie |url=https://magazine.com.lb/2018/11/01/reconstruire-les-chemins-de-fer-un-moyen-pour-booster-leconomie-3/ |access-date=2020-11-08 |website=Magazine Le Mensuel |publisher= |language=fr |quote= |archive-date=2022-11-15 |archive-url=https://web.archive.org/web/20221115065652/https://magazine.com.lb/2018/11/01/reconstruire-les-chemins-de-fer-un-moyen-pour-booster-leconomie-3/ |dead-url=no }}</ref>周边还有包括军事中心、邮局、员工休息室和安保大楼等建筑。<ref name="nogarlic">{{Cite web |last=<!--Not stated--> |date=2019-01-13 |title=Rayak Train Station: A Local Heritage Everyone Should See |url=https://www.nogarlicnoonions.com/rayak-train-station-a-local-heritage-everyone-should-see/ |access-date=2020-11-08 |website=nogarlicnoonions.com |publisher= |quote= |language=en |archive-date=2022-11-15 |archive-url=https://web.archive.org/web/20221115065628/https://www.nogarlicnoonions.com/rayak-train-station-a-local-heritage-everyone-should-see/ |dead-url=no }}</ref>
+
+1895年，一列从[[贝鲁特]]出发的列车抵达里亚格。这是第一列驶进该站的列车。<ref name="riyak">{{Cite web |last=<!--Not stated--> |date= |title=Aperçu historique |url=http://www.rayakrailway.org/french/rayak_railway_project_info_fr.html |access-date=2020-11-08 |website=rayakrailway.org |publisher= |language=fr |quote= |archive-date=2021-11-08 |archive-url=https://web.archive.org/web/20211108105429/http://www.rayakrailway.org/french/rayak_railway_project_info_fr.html |dead-url=no }}</ref>
+
+== 历史 ==
+里亚格火车站及其配套综合设施共占地35,400平方米；综合设施共有48座建筑物，铁路工人在这里制造铁路用配件，并进行机车的维护工作。除此之外，该站的维修厂还可将蒸汽机车由煤炭驱动改装为燃油驱动。<ref name="riyak" />
+
+在两次世界大战期间，里亚格火车站曾作为连接该地区首府、大马士革与[[欧洲]]的重要通道，成为了黎巴嫩铁路系统中最繁忙的车站。<ref name="lemensuel" />除此之外，该站于两次世界大战期间还曾用作重要军事地点。[[第一次世界大战]]时，该站曾作为[[奥斯曼帝国|奥斯曼]]军队的集结点。<ref name="aljazeera">{{Cite web |last=<!--Not stated--> |date=2016-05-01 |title=A trip back in time on Lebanon’s disappearing railway |url=https://www.aljazeera.com/gallery/2016/5/1/a-trip-back-in-time-on-lebanons-disappearing-railway/?gb=true |access-date=2020-11-08 |website=Aljazeera.com |publisher= |quote= |language=en |archive-date=2022-11-15 |archive-url=https://web.archive.org/web/20221115065638/https://www.aljazeera.com/gallery/2016/5/1/a-trip-back-in-time-on-lebanons-disappearing-railway/?gb=true |dead-url=no }}</ref>[[第二次世界大战]]期间，站内的维修厂被改造为军事基地，为[[法国空天军|法国空军]]制造飞机<ref name="lemensuel" />。
+
+在[[黎巴嫩內戰|黎巴嫩内战]]期间，该站被[[叙利亚军队]]占领；叙军曾占用该站综合体中的一部分建筑物作为拘留所和刑场。2005年，叙利亚军队从该站撤出。<ref name="aljazeera" />
+
+该站曾于2010年动议改建为博物馆，但由于缺乏当地政界人士的支持而被迫终止。<ref name="aljazeera" />截至2018年，这些建筑中许多仍然存在，但已经缺乏保护。<ref name="lemensuel" />
+
+== 综合体 ==
+站内维修设施的东侧共有“直轨”和“曲轨”两条铁路线。其中，“直轨”于20世纪40年代关闭，曾可通往贝鲁特和{{Link-en|特博尔|Terbol}}的英国[[军事基地]]；“曲轨”将客运站与维修厂相连，并可通往霍姆斯市。车站西侧有一条通往大马士革的铁路，北侧有5股轨道，其中3条用于客运列车，2条用于货运列车。车站南侧铺有两条铁轨，用于重新引导机车。<ref name="nogarlic" />
+
+维修车间区域分为两部分：工厂区和存储区。工厂区共有25栋建筑，其中包括[[冶金学|冶金]]综合体、工具维修区、机械机械部、主机室、管道车间、绘图室、空压机室、油漆车间、刹车修理厂、铸造区和装配区。存储区仅准许内部工作人员进入，配套有木工车间、工程师办公室、医疗诊所、发电厂、机车存放区、餐厅、宿舍、商店总部、铁路人员内部使用的车站、售票处、保安塔、保安亭、燃料中心和食品储存中心等设备。<ref name="nogarlic" />
+==注释==
+{{notefoot}}
+== 参考内容 ==
+{{Reflist}}
+[[Category:1970年代關閉的鐵路車站]]
+[[Category:1895年启用的铁路车站]]
+[[Category:贝鲁特建筑物]]
