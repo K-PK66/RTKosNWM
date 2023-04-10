@@ -4,4 +4,5 @@ The prefix of each folder is the issued-in-[ISO-639](https://en.wikipedia.org/wi
 
 The repository includes articles in Wikipedia in following languages up to now:
 - 🇯🇵 ja ([Japanese](https://ja.wikipedia.org));
-- 🇺🇦 uk ([Ukrainian](https://uk.wikipedia.org)).
+- 🇺🇦 uk ([Ukrainian](https://uk.wikipedia.org));
+- 🗺️ zh ([Chinese](https://zh.wikipedia.org)).
