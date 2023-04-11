@@ -1,0 +1,14 @@
+.demo-card-wide.ukrchn-card {
+  width: 260px;
+}
+.demo-card-wide > .ukrchn-card__title {
+  color: #fff;
+  background: linear-gradient(135deg,#0057b7,#ffd700,#ee1c25) center / cover;
+  background-size: 350% 350%;
+  animation: Trance 10s ease infinite;
+}
+@keyframes Trance { 
+  0%{background-position:0% 5%}
+  50%{background-position:100% 70%}
+  100%{background-position:0% 5%}
+}
