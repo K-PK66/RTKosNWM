@@ -1,0 +1,69 @@
+{{Infobox China railway station
+| 车站名称 = 商洛北站
+| 图片 = Shangluo North Railway Station, April 29 2023.jpg
+| 图片介绍 = 车站航拍（2023年4月29日）
+| 其他名称 = 
+| 车站拼音 = Shāngluòběi Zhàn
+| 英文名称 = Shangluobei Railway Station
+| 电报码 = 
+| 车站位置 = [[陕西省]][[商洛市]][[商州区]]
+| 坐标 = {{coord|34.122884|N|108.835941|E|display=inline,title}}
+| code = 41018
+| pinyin_code = SLB
+| commercial_code = SBY
+| 归属 = [[西安铁路局]]
+| 线路 = [[宁西铁路]]
+| 车站等级 = [[三等站 (中国大陆)|三等站]]<ref>{{Cite web |last=陕西都市快报 |date=2023-04-25 |title=4月29日起开通！ |url=https://cj.sina.cn/articles/view/1915671961/722ed599019018kfp?from=finance |archive-url=https://web.archive.org/web/20230504212956/https://cj.sina.com.cn/articles/view/1915671961/722ed599019018kfp?from=finance |archive-date=2023-05-04 |access-date=2023-05-04 |website=cj.sina.cn}}</ref>
+| 月台数目 = 1
+| 站台面 = 1
+| 股道数目 = 3
+| 网站 = 
+| built = 
+| opened = 2004年
+| route_map = {{Bsmap|inline=yes|map=
+\\CONTg\CONTg~~ ~~{{rmr|l=u|[[宁西铁路]]往{{站|砚川}}至{{站|西安}}}}
+\STRc2\ABZg3\STR
+\STR+1\STRc4!~STR\STR
+\STR+BSr\STR\STR
+\STR+BSr!~STRg\STRg\STRf
+\STR+BSr\STR\STR
+\STR2\STRc3!~STR\STR
+\STRc1\ABZg+4\STR
+\\CONTf\CONTf~~ ~~{{rmr|l=d|[[宁西铁路]]往{{站|商洛}}至{{站|南京}}}}
+}}
+}}
+'''商洛北站'''是一座隶属于[[西安铁路局]]的三等铁路车站，位于[[中华人民共和国]][[陕西省]][[商洛市]][[商州区|商州]]中心城区东侧<ref name="finish">{{Cite web|title=5月份建成投用！西商城际列车商洛北客站项目进入收尾阶段_澎湃号·媒体_澎湃新闻-The Paper|url=https://www.thepaper.cn/newsDetail_forward_22576245|access-date=2023-05-04|website=[[澎湃新闻]]}}</ref>，经行[[宁西铁路]]，于2023年4月29日开办客运业务。<ref>{{Cite web|title=“五一”假期首日 西安至商洛北站“复兴号”动集动车组正式开行{{!}}华商网新闻|url=http://news.hsw.cn/system/2023/0429/1618909.shtml|access-date=2023-05-04|website=[[华商网]]|archive-date=2023-04-30|archive-url=https://web.archive.org/web/20230430170500/http://news.hsw.cn/system/2023/0429/1618909.shtml|dead-url=no}}</ref>
+==历史==
+商洛北站所在位置在开工前没有站台，经过的宁西铁路只有2股车道。然而，既有商洛站距离商洛市区10公里，离砚川站30公里，空置率较高，造成运输资源浪费；除此之外，新丰镇—商南段仅开行普速客车，无法满足旅客对快速、便捷的运输需求。在此背景下，商洛北站的规划被提上日程。<ref name="Bushu" />
+
+2022年11月22日，商洛市自然资源局开始征收商洛北车站项目所需土地<ref>{{Cite web|author=商洛市自然资源局|date=2022-11-22|title=商洛市人民政府征收土地预公告 商征预告〔2022〕11号|url=http://zrzyj.shangluo.gov.cn/pc/index/article/308788|access-date=2023-05-04}}</ref>；24日，区委副书记、区长主持召开西商城际铁路商洛北客站项目征迁工作部署会<ref name="Bushu">{{Cite web|title=开通西商城际动车！宁西铁路将新建商洛北站_轨道交通网-轨道头条-轨道交通网-RTAI 智慧城轨网-城市轨道交通门户网站|url=http://www.rtai.org.cn/list3/29466.html|access-date=2023-05-04|website=www.rtai.org.cn}}</ref>。2023年1月7日，商洛市政府与中国铁路西安局集团有限公司举行西商城际列车商洛北客站项目签约仪式。<ref>{{Cite web|title=西商城际列车商洛北客站项目签约仪式举行-商洛市人民政府|url=http://www.shangluo.gov.cn/info/1124/131004.htm|access-date=2023-05-04|website=商洛市人民政府|archive-date=2023-01-10|archive-url=https://web.archive.org/web/20230110072309/http://www.shangluo.gov.cn/info/1124/131004.htm|dead-url=no}}</ref>2023年4月29日，商洛北站通车<ref>{{Cite web|title=西商城际铁路4月29日正式运营 城际列车成为西商融合新动力-国际在线|url=https://sn.cri.cn/n/20230428/61a5149b-d92d-e7c9-8e74-f24de718a055.html|access-date=2023-05-04|website=[[中国国际广播电台]]}}</ref>。
+
+==站房==
+商洛北站的站房占地面积共约129[[亩]]<ref name="finish" />，共有3层，其中1层有公共交通接驳站点和停车场，2层有一个平台，3层为站厅。站厅内设有站内设立综合服务中心、老弱病残孕旅客服务区，并配备有婴儿床、轮椅、沙发、饮水机等基本设施，还设立公安值班室，进站口设立安检门。<ref>{{Cite web|author=商洛新闻网|date=2023-04-28|title=西商城际列车开通倒计时1天！商洛北站抢“鲜”看……|url=https://www.sxslnews.com/pc/index/article/341634|access-date=2023-05-04}}</ref>
+<gallery>
+File:Traffic Floor of Shangluo North Railway Station, April 30 2023.jpg|车站1层
+File:Second Terrace Floor of Shangluo North Railway Station, April 30 2023.jpg|车站2层曾在通车当天举办通车仪式
+File:Platform of Shangluo North Railway Station, April 30 2023.jpg|车站站台
+File:Direction Board of Shangluo North Railway Station, April 30 2023.jpg|车站站台上的方向牌
+File:Shangluo Bus №8, April 30 2023.jpg|商洛公交8路驶入站房下方的公交站台
+</gallery>
+==临近车站==
+{{Start rail box|[[File:China Railways.svg|20px]] [[中国铁路]]}}
+{{s-inop|[[商洛站]]|{{站|南京}}方向}}
+{{s-line|[[宁西铁路]]<br />← 9km 商洛北站 27km →}}
+{{s-inop|[[砚川站]]|{{站|西安}}方向}}
+{{end box}}
+
+==接驳交通==
+商洛北站在1层设有「商洛北客站」公交站，在该站可换乘商洛市区的公共交通。亦可以自此搭乘计程车、旅游客运来往于商洛市及邻近县市。<ref>{{cite web |title=西商城际列车4月29日开通 |url=http://sx.sina.com.cn/news/b/2023-04-25/detail-imyrqaxc3877300.shtml |website=[[新浪网]] |publisher=[[三秦都市报]] |date=2023-04-25}}</ref>
+
+==参考内容==
+{{commonscat|Shangluobei Railway Station}}
+{{reflist|30em}}
+{{宁西铁路}}
+
+[[Category:2004年启用的铁路车站]]
+[[Category:商洛市铁路车站]]
+[[Category:商州區]]
+[[Category:2004年中国建立]]
+[[Category:中国铁路三等站]]
